@@ -12,18 +12,15 @@
 <img src="images/508MidtermSnapshot.PNG"/>
 
 ---
-[Predictive Policing in Chicago, Illinois](https://htmlpreview.github.io/?https://github.com/kristinchang/508HW3/blob/main/ChangKristin_MUSA508_HW3.html)
+[Predictive Policing in Chicago, IL](https://htmlpreview.github.io/?https://github.com/kristinchang/508HW3/blob/main/ChangKristin_MUSA508_HW3.html)
 <img src="images/508HW3Snapshot.PNG"/>
 
 ---
 
 ### Writing Samples
 
-- [Project 1 Title](/pdf/sample_presentation.pdf)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [DRAFT Policy Memo: Recidivism Algorithm for Statewide Prison to Employment Iniative in Oakland, CA](/pdf/MUSA508_HW5_KristinChang.pdf)
+- [DRAFT Policy Memo: Policy Recommendations for Crime Mapping in Oakland, CA](/pdf/CPLN520_FinalProject_KristinChang.pdf)
 
 ---
 
