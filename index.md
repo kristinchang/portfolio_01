@@ -17,10 +17,11 @@
 
 ---
 
-### Writing Samples
+### Writing and Cartography Samples
 
 - [DRAFT Policy Memo: Recidivism Algorithm for Statewide Prison to Employment Iniative in Oakland, CA](/pdf/MUSA508_HW5_KristinChang.pdf)
 - [DRAFT Policy Memo: Policy Recommendations for Crime Mapping in Oakland, CA](/pdf/CPLN520_FinalProject_KristinChang.pdf)
+- [Cartography Sample: Map of Sausalito, CA - created in Adobe Illustrator])/pdf/KristinChang_CartographySample.pdf)
 
 ---
 
