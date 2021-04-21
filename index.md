@@ -19,6 +19,8 @@
 [Forecasting Flood Inundation in Calgary, Canada and Denver, CO](https://htmlpreview.github.io/?https://github.com/kristinchang/CPLN675Midterm/blob/main/Chang_Epstein_Midterm.html)
 <img src="images/CalgaryFlood.JPG"/>
 
+---
+
 ### Writing and Cartography Samples
 
 - [DRAFT Policy Memo: Recidivism Algorithm for Statewide Prison to Employment Iniative in Oakland, CA](/pdf/MUSA508_HW5_KristinChang.pdf)
