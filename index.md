@@ -27,6 +27,7 @@
 - [DRAFT Policy Memo: Policy Recommendations for Crime Mapping in Oakland, CA](/pdf/CPLN520_FinalProject_KristinChang.pdf)
 - [Cartography Sample: Map of Sausalito, CA - created in Adobe Illustrator](/pdf/KristinChang_CartographySample.pdf)
 - [Graphic Design Sample: First Year City Planning Workshop Slides](/pdf/CityPlanningWorkshop_SamplePages.pdf)
+- [Graphic Design Sample: First Year City Planning Workshop Book Pages](/pdf/CityPlanningWorkshop_SampleBookPages.pdf)
 
 ---
 
