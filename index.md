@@ -4,8 +4,11 @@
 
 ### Data Analytics
 
-[Predicting Gentrification in Philadelphia, PA using a Geospatial Risk Model](https://htmlpreview.github.io/?https://github.com/kristinchang/KristinTova508Final/blob/main/MUSA508_KristinTova_Final.html)
-<img src="images/508FinalSnapshot.PNG"/>
+[Forecasting Flood Inundation in Calgary, Canada and Denver, CO](https://htmlpreview.github.io/?https://github.com/kristinchang/CPLN675Midterm/blob/main/Chang_Epstein_Midterm.html)
+<br><br>
+This project utilizes a generalized linear model to predict areas of future flooding in Denver, Colorado trained on past data from the City of Calgary in Canada. This was the midterm exercise for the Land Use and Environmental Modeling course at Penn in Spring 2021. The predictions are meant to hypothetically inform Denver City Agencies such as Public Works, Public Health, City Planning, and Emergency Management to better prepare for future flooding disasters.
+
+<img src="images/CalgaryFloods03.PNG"/>
 
 ---
 [Home Price Predictions in Miami and Miami Beach, FL](https://htmlpreview.github.io/?https://github.com/kristinchang/508Midterm/blob/main/The_Real_Houseprices_of_Miami_Final.html)
@@ -16,8 +19,7 @@
 <img src="images/508HW3Snapshot.PNG"/>
 
 ---
-[Forecasting Flood Inundation in Calgary, Canada and Denver, CO](https://htmlpreview.github.io/?https://github.com/kristinchang/CPLN675Midterm/blob/main/Chang_Epstein_Midterm.html)
-<img src="images/CalgaryFlood2.PNG"/>
+
 
 ---
 
