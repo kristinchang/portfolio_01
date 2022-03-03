@@ -11,16 +11,13 @@ This project utilizes a generalized linear model to predict areas of future floo
 <img src="images/CalgaryFloods03.PNG"/>
 
 ---
+
+---
 [Home Price Predictions in Miami and Miami Beach, FL](https://htmlpreview.github.io/?https://github.com/kristinchang/508Midterm/blob/main/The_Real_Houseprices_of_Miami_Final.html)
 <img src="images/508MidtermSnapshot.PNG"/>
-
 ---
 [Predictive Policing in Chicago, IL](https://htmlpreview.github.io/?https://github.com/kristinchang/508HW3/blob/main/ChangKristin_MUSA508_HW3.html)
 <img src="images/508HW3Snapshot.PNG"/>
-
----
-
-
 ---
 
 ### Writing and Design Samples
