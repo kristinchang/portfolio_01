@@ -8,7 +8,7 @@
 <br><br>
 This project utilizes a generalized linear model to predict areas of future flooding in Denver, Colorado trained on past data from the City of Calgary in Canada. This was the midterm exercise for the Land Use and Environmental Modeling course at Penn in Spring 2021. The predictions are meant to hypothetically inform Denver City Agencies such as Public Works, Public Health, City Planning, and Emergency Management to better prepare for future flooding disasters.
 
-<img src="images/CalgaryFloods03.PNG"/>
+<img src="images/CalgaryFloods03.png"/>
 
 ---
 
