@@ -34,7 +34,7 @@ This project consists of a Geospatial Risk Model to predict areas at risk of gen
 ---
 [Predictive Policing in Chicago, IL](https://htmlpreview.github.io/?https://github.com/kristinchang/508HW3/blob/main/ChangKristin_MUSA508_HW3.html)
 <br><br>
-This projects breaks down the process of building predictive policing models and why there is prevalent bias in these algorithms that makes them extremely harmful to black and brown communities. Such models are created on foundations of selection biases that perpetrate cycles of unjust over-policing. This is exemplified in my analysis of crime reports in Chicago for unlawful cannabis possession. This exercise was completed for the Public Policy Analytics course at UPenn in Fall 2020.
+This projects breaks down the process of building predictive policing models and why there is prevalent bias in these algorithms that makes them extremely harmful to black and brown communities. Such models are created on foundations of selection biases that perpetrate cycles of unjust over-policing. This is exemplified in by the analysis and hotspot mapping of crime reports in Chicago for unlawful cannabis possession. This exercise was completed for the Public Policy Analytics course at UPenn in Fall 2020.
 
 <img src="images/Chicago.PNG"/>
 
