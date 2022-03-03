@@ -20,7 +20,7 @@ Toolkit for a Green New Deal consists of a Sentiment Analysis of tweets using th
 ---
 [Saint Thomas Resilience Plan, City Planning Studio Fall 2021](https://www.design.upenn.edu/city-regional-planning/graduate/work/saint-thomas-resilience-plan)
 <br><br>
-This resilience plan was created in the 2nd year City Planning Studio for St. Thomas located in the U.S. Virgin Islands to address the island's vulnerability to climate change and sea level rise. Notable contributions include construction of a St. Thomas specific Social Vulnerability Index (pg. 24-25), Demographic and Socioeconomic analyses (pg.26-27), mapping traffic patterns (pg. 68), and graphic design and layout of the Existing Conditions section (pg. 24-29).
+The St. Thomas Resilience Plan was created in the 2nd year City Planning Studio for St. Thomas located in the U.S. Virgin Islands to address the island's vulnerability to climate change and sea level rise. Notable contributions include construction of a St. Thomas specific Social Vulnerability Index (pg. 24-25), Demographic and Socioeconomic analyses (pg.26-27), mapping traffic patterns (pg. 68), and graphic design and layout of the Existing Conditions section (pg. 24-29).
 
 <img src="images/STTstudio.PNG"/>
 
@@ -34,16 +34,16 @@ This project consists of a Geospatial Risk Model to predict areas at risk of gen
 ---
 [Predictive Policing in Chicago, IL](https://htmlpreview.github.io/?https://github.com/kristinchang/508HW3/blob/main/ChangKristin_MUSA508_HW3.html)
 <br><br>
+This projects breaks down the process of building predictive policing models and why there is prevalent bias in these algorithms that makes them extremely harmful to black and brown communities. Such models are created on foundations of selection biases that perpetrate cycles of unjust over-policing. This is exemplified in my analysis of crime reports in Chicago for unlawful cannabis possession. This exercise was completed for the Public Policy Analytics course at UPenn in Fall 2020.
 
-
-<img src="images/508HW3Snapshot.PNG"/>
+<img src="images/Chicago.PNG"/>
 
 ---
 [Home Price Predictions in Miami and Miami Beach, FL](https://htmlpreview.github.io/?https://github.com/kristinchang/508Midterm/blob/main/The_Real_Houseprices_of_Miami_Final.html)
 <br><br>
 This exercise in mimicking the hedonic pricing method, which states home sales prices are determined by their internal and external characteristics, results in fairly accurate home sale price predictions (6th best model in the class!) utilizing OLS regression. The narrative includes a deep dive into evaluation methods and measuring generalizability to hypothetically recommend the model to an online real-estate marketplace company. This project was the midterm competition for the Public Policy Analytics course at UPenn in Fall 2020.
 
-<img src="images/508MidtermSnapshot.PNG"/>
+<img src="images/Miami.PNG"/>
 
 ---
 
