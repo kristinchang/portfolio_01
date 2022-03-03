@@ -25,14 +25,28 @@ This resilience plan was created in the 2nd year City Planning Studio for St. Th
 <img src="images/STTstudio.PNG"/>
 
 ---
-[Home Price Predictions in Miami and Miami Beach, FL](https://htmlpreview.github.io/?https://github.com/kristinchang/508Midterm/blob/main/The_Real_Houseprices_of_Miami_Final.html)
-<img src="images/508MidtermSnapshot.PNG"/>
+[Predicting Gentrification in Philadelphia, PA](https://htmlpreview.github.io/?https://github.com/kristinchang/KristinTova508Final/blob/main/MUSA508_KristinTova_Final.html)
+<br><br>
+This project consists of a Geospatial Risk Model to predict areas at risk of gentrification in Philly. Filings of new construction permits are used as a proxy for gentrification because they are strong indicators of new development. The predictions would hypothetically inform housing agencies that provide support or resources to individuals at risk of home foreclosure in order to help them maintain ownership status of their homes. This project was part of the final for the Public Policy Analytics course at UPenn in Fall 2020.
+
+<img src="images/Gentrification.PNG"/>
 
 ---
 [Predictive Policing in Chicago, IL](https://htmlpreview.github.io/?https://github.com/kristinchang/508HW3/blob/main/ChangKristin_MUSA508_HW3.html)
+<br><br>
+
+
 <img src="images/508HW3Snapshot.PNG"/>
 
 ---
+[Home Price Predictions in Miami and Miami Beach, FL](https://htmlpreview.github.io/?https://github.com/kristinchang/508Midterm/blob/main/The_Real_Houseprices_of_Miami_Final.html)
+<br><br>
+This exercise in mimicking the hedonic pricing method, which states home sales prices are determined by their internal and external characteristics, results in fairly accurate home sale price predictions (6th best model in the class!) utilizing OLS regression. The narrative includes a deep dive into evaluation methods and measuring generalizability to hypothetically recommend the model to an online real-estate marketplace company. This project was the midterm competition for the Public Policy Analytics course at UPenn in Fall 2020.
+
+<img src="images/508MidtermSnapshot.PNG"/>
+
+---
+
 
 ### Writing and Design Samples
 
